@@ -83,8 +83,13 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC
+
+# COMMAND ----------
+
 # MAGIC %md 
-# MAGIC _Add reason for the failure here..._
+# MAGIC Output record: '{"pickup_borough":"Unknown","amount":3641457.9600010393}'. Missing input data: true
 
 # COMMAND ----------
 

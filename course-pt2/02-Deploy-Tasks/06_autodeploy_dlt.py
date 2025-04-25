@@ -41,14 +41,14 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC transport_taxinyc_test_jonaswagle_oppgave_62c4a77b_dlt vs manuelt navn
 
 # COMMAND ----------
 
 # MAGIC %md
 # MAGIC ## Task: How was the job name composed?
 # MAGIC
-# MAGIC Write answer in the empty cell below.
+# MAGIC catalog_brukernavn_branch_hash_dlt
 
 # COMMAND ----------
 
